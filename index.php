@@ -10,7 +10,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #488AC7; /* Light blue background for the whole page */
+            background-color: #649CB2; /* Light blue background for the whole page */
             color: #333;
         }
 
